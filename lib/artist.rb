@@ -11,7 +11,8 @@ class Artist
   end
  
   def songs
-    
+    @all
+  end 
 
   def self.all
     @@all
