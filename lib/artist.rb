@@ -9,9 +9,6 @@ class Artist
     @songs = []
       save
   end
- 
-  def songs
-  end 
 
   def self.all
     @@all
